@@ -1,7 +1,7 @@
 <h3 align="center">I am a Competitive programmer and machine learning practitioner</h3>
 <h1 align="left">My account detailed::</h1>
 <h2 align="left">My Github repositories are numbered from 1 to n.</h2>
-h2 align="left">From ripository 1 to 100 is dedicated for Data structure,Algorithm and Competitive programming problems.</h2>
+<h2 align="left">From ripository 1 to 100 is dedicated for Data structure,Algorithm and Competitive programming problems.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=englishenglishenglish&label=Profile%20views&color=0e75b6&style=flat" alt="englishenglishenglish" /> </p>
 
