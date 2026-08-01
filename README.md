@@ -2,7 +2,7 @@
 <h1 align="left">My account detailed::</h1>
 <h2 align="left">My Github repositories are numbered from 1 to n.</h2>
 <h2 align="left">From ripository 1 to 100 is dedicated for Data structures,Algorithms and Competitive programming problems.</h2>
-<h2 align="left">from 101 to N is dedicated for Machine Learning project and these ripository is Kaggle dataset's complete Notebook 
+<h2 align="left">from ripository 101 to N is dedicated for Machine Learning projects and these ripositories are Kaggle dataset's complete Notebooks 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=englishenglishenglish&label=Profile%20views&color=0e75b6&style=flat" alt="englishenglishenglish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=englishenglishenglish" alt="englishenglishenglish" /></a> </p>
